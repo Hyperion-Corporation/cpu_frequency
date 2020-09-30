@@ -6,5 +6,5 @@ python cpu_info.py
 ```
 If you want to import the cpu_frequency:
 ```python3
-import cpu_frequency
+import cpu_info
 ```
