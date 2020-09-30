@@ -1,8 +1,8 @@
-# cpu_frequency
-CPU Frequency Printer
+# CPU Information
+CPU Informaion on Windows, OSX and Linux
 # HOW TO USE
 ```python3
-python cpu_frequency.py
+python cpu_info.py
 ```
 If you want to import the cpu_frequency:
 ```python3
