@@ -1,5 +1,5 @@
 # CPU Information
-CPU Informaion on Windows, OSX and Linux
+<center>CPU Informaion on Windows, OSX and Linux</center>
 # HOW TO USE
 ```python3
 python cpu_info.py
