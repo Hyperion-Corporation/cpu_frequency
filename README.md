@@ -9,7 +9,7 @@ or (only Linux)
 chmod +x cpu_info.py
 ./cpu_info.py
 ```
-If you want to import the cpu_frequency:
+If you want to import the cpu_information:
 ```python3
 import cpu_info
 ```
