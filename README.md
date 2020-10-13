@@ -1,5 +1,9 @@
 # CPU Information
 CPU Informaion on Windows, OSX and Linux
+# Requirements
+On Windows: No, if you use .exe file.
+
+On Linux: Python3 and figlet
 # HOW TO USE
 ```python3
 python cpu_info.py
