@@ -21,6 +21,7 @@ systemtype = sys.platform
 if systemtype == 'win32':
 	cpu_information_windows()
 elif systemtype == 'linux' or systemtype == 'cygwin' or systemtype == 'darwin':
+	os.system("figlet -f slant CPU Information")
 	chinf = int(input("What information you want to collect? [1] Infomation about CPU [2] CPU frequency : "))
 	if chinf == 1:
 		cpu_information_linux()
