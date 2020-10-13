@@ -8,6 +8,10 @@ On Linux: Python3 and figlet
 ```python3
 python cpu_info.py
 ```
+or (only Windows)
+```cmd
+start cpu_info.exe
+```
 or (only Linux)
 ```python3
 chmod +x cpu_info.py
